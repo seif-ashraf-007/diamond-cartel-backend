@@ -5,7 +5,6 @@ A powerful and scalable backend API for the Diamond Cartel application.
 ## Table of Contents
 
 - [Overview](#overview)
-- [Project Structure](#project-structure)
 - [Technologies](#technologies)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
@@ -20,18 +19,7 @@ A powerful and scalable backend API for the Diamond Cartel application.
 
 ## Overview
 
-Diamond Cartel Backend is a RESTful API service that provides data management and business logic for the Diamond Cartel application. It handles authentication, authorization, and all database operations related to the application.
-
-## Project Structure
-diamond-cartel-backend/
-└── src/
-├── database/ # Database connection and configuration
-├── models/ # Data models and schema definitions
-├── controllers/ # Request handlers and response logic
-├── routes/ # API endpoints definition
-├── middlewares/ # Express middlewares for request/response processing
-├── services/ # Business logic and external service integrations
-└── utils/ # Helper functions and utility modules
+Diamond Cartel Backend is a RESTful API service that provides data management and business logic for the Diamond Cartel application. It handles authentication, authorization, product management, purchases and all database operations related to the application.
 
 
 ## Technologies
