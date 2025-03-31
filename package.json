@@ -1,0 +1,19 @@
+{
+  "name": "diamond-cartel-backend",
+  "version": "1.0.0",
+  "description": "A backend application for Diamond cartel website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seif-ashraf-007/diamond-cartel-backend.git"
+  },
+  "author": "Seif Ashraf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seif-ashraf-007/diamond-cartel-backend/issues"
+  },
+  "homepage": "https://github.com/seif-ashraf-007/diamond-cartel-backend#readme"
+}
